@@ -1,4 +1,4 @@
-# Simple Monorepo with Solid.js + Vite + Binserve (Rust)
+# Simple SPA with Solid.js + Vite + Binserve (Rust)
 
 Install client:
 
